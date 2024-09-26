@@ -1,0 +1,10 @@
+{
+  "rooms": [
+    { "name": "Room 1", "devices": [{ "name": "device1", "status": "on" }] },
+    { "name": "Room 2", "devices": [{ "name": "device1", "status": "off" }] },
+    {
+      "name": "Room 3",
+      "devices": [{ "name": "device1", "status": "offline" }]
+    }
+  ]
+}

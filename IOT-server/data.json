@@ -1,0 +1,24 @@
+{
+  "devices": [
+    {
+      "id": "k17b6bvmsj8vreqdn1msd522tn71ccnw",
+      "status": "on"
+    },
+    {
+      "id": "k175dpwqqg4mv3njmrx6ays7r171c2w3",
+      "status": "off"
+    },
+    {
+      "id": "k173yve78th0nk0sg308t48p4h71db6s",
+      "status": "off"
+    },
+    {
+      "id": "k179pcyq9jnsgep10mh6nek84h71cm5m",
+      "status": "off"
+    },
+    {
+      "id": "k17c7033ag81mf9rfne9ezb54x71cq4p",
+      "status": "off"
+    }
+  ]
+}
